@@ -59,30 +59,30 @@ Utilizaremos una Plataforma en la Nube Gestionada (como *Railway* o *Render*) pa
 
 = Estrategia Comercial y Precios (MXN)
 
-Dado que el contexto es el de una microempresa, la estrategia de precios se aleja de las tarifas empresariales tradicionales hacia un modelo "Micro-SaaS" o "Éxito Compartido". Cobrar una tarifa inicial de desarrollo de \$15,000+ MXN es inviable, y una venta de pago único nos perjudica al dejarnos asumiendo los costos fijos de servidores y soporte de por vida.
+Dado que el contexto es el de una microempresa, considero que la estrategia de precios se aleja de las tarifas empresariales tradicionales hacia un modelo "Micro-SaaS" o "Éxito Compartido".
 
-A continuación, se presentan las opciones viables:
+A continuación, presento las opciones viables:
 
 == Opción 1: Suscripción Micro-SaaS (Recomendada)
-Este modelo trata el sistema como un servicio público vital (como el internet), con un costo tan bajo que resulta una decisión sencilla para el fundador.
+Este modelo trata el sistema como un servicio público vital (como el internet), con un costo tan bajo que resulta una decisión sencilla para quien lo pague.
 
 - *Precio:* *\$300 a \$500 MXN / mes.*
-- *Beneficio para el Cliente:* Representa solo un ~2-3% de sus ingresos mensuales (\$15,000 MXN). Es altamente asequible pero lo suficientemente significativo para que valoren la herramienta.
-- *Beneficio para el Desarrollador:* Dado que nuestros costos reales de servidor en Railway con Quarkus rondarán los \$100 MXN al mes, esta tarifa cubre los costos del servidor y genera una ganancia pasiva. A medida que escalemos este sistema a otros clientes, el costo de infraestructura se diluye y la ganancia se vuelve casi 100% neta.
+- *Beneficio para la pyme:* Representa solo un ~2-3% de sus ingresos mensuales (aproximadamente). Es altamente asequible pero lo suficientemente significativo para que valoren la herramienta.
+- *Beneficio para el Desarrollador:* Dado que nuestros costos reales de servidor en Railway con Quarkus rondarán los \$100 MXN al mes, esta tarifa cubre los costos del servidor y genera una ganancia pasiva.
 
 == Opción 2: Instalación de Bajo Costo + Mantenimiento Mensual
-Ideal si el fundador prefiere "comprar" el sistema en lugar de sentir que lo está alquilando indefinidamente.
+Ideal si el enfoque es "comprar" el sistema en lugar de sentir que lo están alquilando indefinidamente.
 
 - *Precio:*
-  - *Instalación / Configuración Inicial:* *\$2,500 a \$4,000 MXN (Pago único)*
+  - *Instalación / Configuración Inicial:* *\$3,500 a \$4,000 MXN (Pago único)*
   - *Mantenimiento de Nube Mensual:* *\$150 a \$250 MXN / mes*
-- *Beneficio:* Otorga una inyección de capital inicial para compensar el tiempo de configuración y capacitación, mientras que la pequeña cuota mensual asegura que nunca paguemos los servidores de nuestro bolsillo.
+- *Beneficio:* Otorga una inyección de capital inicial para compensar el tiempo de configuración y capacitación, mientras que la pequeña cuota mensual cubre únicamente los costos de los servidores dependiendo del uso.
 
 == Opción 3: Modelo de Riesgo Compartido (Asociación)
-Si la microempresa no tiene capital inicial pero posee un alto potencial técnico según la estacionalidad de sus ventas, podemos ofrecer el sistema a cambio de un porcentaje.
+Si de momento no tienes el capital inicial pero posees un alto potencial técnico según la estacionalidad de tus ventas, puedo ofrecerte el sistema a cambio de un porcentaje.
 
 - *Precio:* *1% a 2% del total de ventas procesadas.*
-- *Beneficio:* Alinea perfectamente nuestros objetivos con los de ellos. Si hoy facturan \$15,000 MXN, ganamos \$150-\$300 MXN. Si el sistema optimiza su inventario y crecen a \$40,000 MXN, nuestro ingreso sube a \$800 MXN sin renegociar el contrato.
+- *Beneficio:* Alinea perfectamente nuestros objetivos en conjunto. Si hoy facturan \$15,000 MXN, ganamos \$150-\$300 MXN. Si el sistema optimiza tu inventario y crecen a \$40,000 MXN, nuestro ingreso sube a \$800 MXN sin renegociar el contrato.
 
 == Límite de Desarrollo (Soporte AS-IS)
-Es fundamental establecer una cláusula de protección: las tarifas anteriores (ej. \$500 MXN/mes) incluyen *exclusivamente* el sistema de Punto de Venta e Inventario tal como fue construido y acordado. Cualquier solicitud de desarrollo a medida (ej. integración con WhatsApp, módulo de nóminas) será facturada de manera independiente por hora de desarrollo. Esto evita el estancamiento en soporte técnico gratuito.
+Es fundamental establecer una cláusula de protección: las tarifas anteriores (ej. \$500 MXN/mes) incluyen *exclusivamente* el sistema de Punto de Venta e Inventario tal como fue construido y acordado. Cualquier solicitud de desarrollo a medida (ej. integración con WhatsApp, módulo de nóminas) será facturada de manera independiente por hora de desarrollo.
