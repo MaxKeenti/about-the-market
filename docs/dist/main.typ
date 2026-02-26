@@ -14,4 +14,3 @@
 #set heading(numbering: "1.")
 #set list(indent: 1.5em)
 
-#show "Requerimientos": set text(weight: "bold", size: 18pt)
