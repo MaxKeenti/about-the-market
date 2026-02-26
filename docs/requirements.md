@@ -4,6 +4,7 @@
 - Inventory updates
 - Purchases records
 - Point of sale (scan code, or enter a code to modify the inventory of a product)
+- For enterprise use only, so the system will be used by the employees of the company only
 
 ## Objective
 
